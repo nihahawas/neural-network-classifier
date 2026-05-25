@@ -9,7 +9,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 
-🔴 **[Live Demo →](https://your-app.streamlit.app)** &nbsp;&nbsp;|&nbsp;&nbsp; 📓 **[Notebook Walkthrough →](network-classifier.ipynb)**
+🔴 **[Live Demo →](https://neural-network-classifier-9hdpl8kkbgzhxgzfld9eto.streamlit.app)** &nbsp;&nbsp;|&nbsp;&nbsp; 📓 **[Notebook Walkthrough →](network-classifier.ipynb)**
 
 </div>
 
@@ -50,7 +50,7 @@ This app lets you interact with two neural network architectures — built from 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/neural-network-classifier.git
+git clone https://github.com/nihahawas/neural-network-classifier.git
 cd neural-network-classifier
 
 # 2. Install dependencies
@@ -102,6 +102,14 @@ neural-network-classifier/
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+| Name | GitHub | LinkedIn |
+|------|--------|----------|
+| **Niha Hawas** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nihahawas) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihahawas45) |
 
 ---
 
