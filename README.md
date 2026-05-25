@@ -105,6 +105,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+## 👤 Author
+
+| Name | GitHub | LinkedIn |
+|------|--------|----------|
+| **Your Name** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/username) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/username) |
+
+---
+
 <div align="center">
 Made with ❤️ using Python & Streamlit
 </div>
