@@ -222,4 +222,4 @@ if st.button("🔮 Predict"):
         st.progress(float(prob), text=f"{cls}: {prob*100:.1f}%")
 
 st.markdown("---")
-st.markdown('<p style="text-align:center; color:#475569; font-size:0.8rem;">Built with ❤️ using Python · Neural Networks from Scratch + scikit-learn</p>', unsafe_allow_html=True)
+st.markdown('<p style="text-align:center; color:#475569; font-size:0.8rem;">"Built with ❤️ by Niha Hawas using Python · Neural Networks from Scratch + scikit-learn"</p>', unsafe_allow_html=True)
