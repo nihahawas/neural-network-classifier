@@ -11,6 +11,9 @@
 
 🔴 **[Live Demo →](https://neural-network-classifier-9hdpl8kkbgzhxgzfld9eto.streamlit.app)** &nbsp;&nbsp;|&nbsp;&nbsp; 📓 **[Notebook Walkthrough →](network-classifier.ipynb)**
 
+<img width="1304" height="837" alt="image" src="https://github.com/user-attachments/assets/e4e7e7a8-9eed-4de5-bbb5-3914d697c945" />
+
+
 </div>
 
 ---
@@ -114,5 +117,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-Made with ❤️ using Python & Streamlit
+  
+Made with ❤️ by **NIHA HAWAS** using Python & Streamlit
 </div>
