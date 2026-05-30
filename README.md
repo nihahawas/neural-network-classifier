@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Neural Network Classifier
+# 🧠 Neural Network Classifier App
 
 *An interactive ML web app to visualize & compare neural network models across real-world scenarios*
 
