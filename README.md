@@ -35,6 +35,18 @@ This app lets you interact with two neural network architectures—built from sc
 
 ---
 
+## 🔄 How It Works
+
+The application follows a simple machine-learning workflow:
+
+1. 🎛️ **Select a Scenario** — Choose from Student Performance, Loan Approval, Weather Prediction, or Employee Performance.
+2. 📊 **Adjust Input Features** — Use the Streamlit sliders to provide values for the selected scenario.
+3. 🧠 **Select a Model** — Compare the custom Single Layer Neural Network with the Scikit-learn MLPClassifier.
+4. ⚡ **Generate Prediction** — The selected model processes the input features and predicts the corresponding class.
+5. 📈 **Compare Results** — Explore how the two neural network approaches perform on the same classification problem.
+
+---
+
 ## ⭐ Project Highlights
 
 - 🧠 Built a **Single Layer Neural Network from scratch** using NumPy.
