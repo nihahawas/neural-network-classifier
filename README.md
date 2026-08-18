@@ -17,7 +17,7 @@
 
 ---
 
-# 📖 Technical Blog
+# 📖 Technical Blog:
 
 Want to learn how this project was built?
 
